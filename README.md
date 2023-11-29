@@ -1,6 +1,6 @@
 # Md Asif - Full Stack Web Developer 🚀
 
-<img align="right" alt="Coding" width="400" src="banner.png">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/folders/1yFkELwpiyDdMtCjVvSyjUCs5oe9_eCMP">
 
 ## Introduction
 
