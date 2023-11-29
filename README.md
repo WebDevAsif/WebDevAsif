@@ -2,7 +2,7 @@
 
 # Md Asif - Full Stack Web Developer 🚀
 
-[![Profile Picture](<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m5rma3fe2370205f6pvg7lczaz6s4t9j5kyaioq9&ep=v1_gifs_search&rid=giphy.gif&ct=g">)]
+![Profile Picture](<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47m5rma3fe2370205f6pvg7lczaz6s4t9j5kyaioq9&ep=v1_gifs_search&rid=giphy.gif&ct=g">)
 
 ## Introduction
 
