@@ -1,6 +1,6 @@
 # Md Asif - Full Stack Web Developer 🚀
 
-<img align="right" alt="img" src="banner.png" width="50%" height="70%" style="margin:0 50px;">
+<img align="right" alt="img" src="https://github.com/WebDevAsif/WebDevAsif/assets/139733073/eeb9c0cf-692c-4347-8230-e62419153daa" width="50%" height="70%" style="margin:0 50px;">
 
 ## Introduction
 
