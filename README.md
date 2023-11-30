@@ -38,6 +38,6 @@ Feel free to contribute to any of the projects or provide feedback. Contribution
 
 - 📧 Email: asifbinsabir611@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/asif-developer/
-- 🔗 Github: https://github.com/WebDevAsif/WebDevAsif
+- 🔗 Github: https://github.com/WebDevAsif
 
 Thank you for visiting! If you have any questions or want to connect, feel free to reach out via email or LinkedIn. Happy coding! 🌐
