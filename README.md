@@ -1,6 +1,6 @@
 # Md Asif - Full Stack Web Developer 🚀
 
-![Alt text](banner.png)
+<img align="right" alt="img" src="banner.png" width="50%" height="70%" style="margin:0 50px;">
 
 ## Introduction
 
