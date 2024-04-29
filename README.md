@@ -1,8 +1,8 @@
 # Md Asif - Full Stack Web Developer 🚀
 
-<img align="right" alt="img" src="https://github.com/WebDevAsif/WebDevAsif/assets/139733073/eeb9c0cf-692c-4347-8230-e62419153daa" width="50%" height="50%" style="margin: 100px 50px;">
-
 ## Introduction
+
+<img align="right" alt="img" src="https://github.com/WebDevAsif/WebDevAsif/assets/139733073/eeb9c0cf-692c-4347-8230-e62419153daa" width="50%" height="50%" style="margin: 100px 50px;">
 
 Hello! I'm Md Asif, a dedicated full stack web developer specializing in crafting engaging and efficient web applications. I have expertise in the following technologies:
 
